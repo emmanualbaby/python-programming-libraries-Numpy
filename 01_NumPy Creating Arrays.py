@@ -1,4 +1,4 @@
-# Dimensions in Arrays 
+# Dimensions in Arrays
  
 # 0-D Arrays 
 
